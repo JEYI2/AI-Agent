@@ -14,9 +14,9 @@
 <img width="1848" height="808" alt="image" src="https://github.com/user-attachments/assets/42aee9ea-6353-4dd6-9a0a-02fcf9a8729e" />
 
 ### 😎시스템 설명
-<img width="300" height="360" alt="image" src="https://github.com/user-attachments/assets/e3c0fe07-130f-4fb8-bdb9-bb4e14ac69bf" />
-<img width="300" height="371" alt="image" src="https://github.com/user-attachments/assets/070f4300-7ffc-4a37-bc85-6105dff28a1a" />
-<img width="300" height="391" alt="image" src="https://github.com/user-attachments/assets/28a259f3-6793-4bb8-bba6-b8b33b08076a" />
+<img width="250" height="360" alt="image" src="https://github.com/user-attachments/assets/e3c0fe07-130f-4fb8-bdb9-bb4e14ac69bf" />
+<img width="250" height="371" alt="image" src="https://github.com/user-attachments/assets/070f4300-7ffc-4a37-bc85-6105dff28a1a" />
+<img width="250" height="391" alt="image" src="https://github.com/user-attachments/assets/28a259f3-6793-4bb8-bba6-b8b33b08076a" />
 
 ---
 ### ✨시연 영상
